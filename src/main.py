@@ -34,7 +34,7 @@ def main():
     cfg = load_config()
     pipeline = Pipeline(cfg)
     stats = pipeline.process_stream(fake_stream(), window_id="t0")
-    pipeline.export_sketch_lsh(window_id="win-2026-01-17T10:00Z")
+    pipeline.export_sketch(window_id="win-2026-01-17T10:00Z")
     print("window stats:", stats)
 
 
