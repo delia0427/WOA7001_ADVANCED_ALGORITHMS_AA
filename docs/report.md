@@ -14,4 +14,5 @@ HyperLogLog (HLL) is a method that uses extremely small memory to quickly estima
 ## 1.4 聚合数据说明
 
 ## 1.5 结果
+为了验证Sketching算法准确性，采用离线验证的计算逻辑和其对比。离线计算逻辑是精确、完整的全量计算，两个计算方法将读取一样的数据源和配置文件计算，并对比结果。计算逻辑和对比标准如表所示
 

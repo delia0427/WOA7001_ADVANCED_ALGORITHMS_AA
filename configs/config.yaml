@@ -40,6 +40,10 @@ estimation:
     R2: 0.10
     R3: 0.15
 
+ams:
+  num_sketches: 256
+  seed: 2026
+
 reporting:
   sinks:
     - type: "jsonl"

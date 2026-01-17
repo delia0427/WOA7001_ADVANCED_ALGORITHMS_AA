@@ -44,13 +44,35 @@ class AMSF2Sketch:
         for j in range(self.num_sketches):
             Zr[j] += self._sign(key, j) * int(amount)
 
-    def estimate_f2(self, region: str) -> float:
+    def estimate_f2(self, region: str, groups: int = 8) -> float:
         """
-        估计该 region 的 F2，取 {Z_j^2} 的中位数以提升稳健性
+        使用 Median-of-Means 估计 F2：
+        - 将 {Z_j^2} 切分为若干组，各组取均值
+        - 取这些组均值的中位数作为估计值（更稳健）
+        - 当组数不足时，回退为简单均值（比中位数更接近 E[Z^2]）
         """
-        Zr = self._Z.get(region)
-        if not Zr:
+        Z = self._Z.get(region, None)
+        if not Z:
             return 0.0
-        squares = [float(z) * float(z) for z in Zr]
-        # 也可返回均值：sum(squares) / len(squares)
-        return float(statistics.median(squares))
+        squares = [float(z) * float(z) for z in Z]
+        n = len(squares)
+        if n == 0:
+            return 0.0
+        if groups <= 1 or n < groups:
+            return sum(squares) / float(n)
+
+        size = n // groups
+        idx = 0
+        means = []
+        for _ in range(groups - 1):
+            chunk = squares[idx: idx + size]
+            idx += size
+            if chunk:
+                means.append(sum(chunk) / float(len(chunk)))
+        # 最后一组包含余数
+        chunk = squares[idx:]
+        if chunk:
+            means.append(sum(chunk) / float(len(chunk)))
+
+        import statistics
+        return float(statistics.median(means))

@@ -1,0 +1,1 @@
+window_id,region,severity,score,reason,p_hat,ci_low,ci_high,cms_total,cms_abnormal,heavy_bucket_ratio,hll_estimate,sbf_saturation,timestamp

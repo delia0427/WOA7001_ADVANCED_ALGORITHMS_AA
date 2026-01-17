@@ -39,7 +39,7 @@ def _to_jsonable(obj: Any) -> Dict[str, Any]:
         # Stage8WindowStats
         "region", "p_hat", "ci_low", "ci_high", "sample_size", "heavy_bucket_ratio",
         "heavy_buckets", "cms_total", "cms_abnormal", "hll_estimate", "sbf_saturation",
-        "evidence_score",
+        "evidence_score", "ams_f2",
         # Alert
         "window_id", "severity", "score", "reason", "metrics", "thresholds", "timestamp",
     ]
@@ -112,7 +112,7 @@ class CSVSink(ReportSink):
         self.stats_fields = [
             "window_id", "region", "p_hat", "ci_low", "ci_high", "sample_size",
             "cms_total", "cms_abnormal", "heavy_bucket_ratio", "hll_estimate",
-            "sbf_saturation", "evidence_score"
+            "sbf_saturation", "evidence_score", "heavy_buckets", "ams_f2"
         ]
         self.alert_fields = [
             "window_id", "region", "severity", "score", "reason",
@@ -200,43 +200,30 @@ class WebhookSink(ReportSink):
         self._post_json(self.url_alerts, payload)
 
 
-def build_sinks_from_config(cfg: Dict[str, Any]) -> List[ReportSink]:
-    """
-    根据配置构建 sinks 列表
-    示例：
-    reporting:
-      sinks:
-        - type: "jsonl"
-          path_stats: "out/stats.jsonl"
-          path_alerts: "out/alerts.jsonl"
-        - type: "csv"
-          path_stats: "out/stats.csv"
-          path_alerts: "out/alerts.csv"
-        - type: "stdout"
-        - type: "webhook"
-          url_stats: "https://example.com/stats"
-          url_alerts: "https://example.com/alerts"
-          timeout_sec: 5
-          max_retries: 2
-    """
-    out: List[ReportSink] = []
-    reporting = cfg.get("reporting", {}) or {}
-    sinks = reporting.get("sinks", []) or []
+# 修改/重写 build_sinks_from_config，使其生成时间轴目录并返回两个 sink：
+def build_sinks_from_config(cfg: dict):
+    base_dir = (cfg.get("output", {}) or {}).get("base_dir", "out")
+    ts_dir = time.strftime("%Y%m%d-%H%M", time.gmtime())
+    out_dir = os.path.join(base_dir, ts_dir)
+
+    # 结果与数据子目录
+    results_dir = os.path.join(out_dir, "results")
+    data_dir = os.path.join(out_dir, "data")
+    os.makedirs(results_dir, exist_ok=True)
+    os.makedirs(data_dir, exist_ok=True)
+
+    # 时间轴下的文件路径（JSONL 与 CSV）
+    path_stats_jsonl = os.path.join(results_dir, "stats.jsonl")
+    path_alerts_jsonl = os.path.join(results_dir, "alerts.jsonl")
+    path_stats_csv = os.path.join(results_dir, "stats.csv")
+    path_alerts_csv = os.path.join(results_dir, "alerts.csv")
+
+    sinks = [
+        JSONLSink(path_stats=path_stats_jsonl, path_alerts=path_alerts_jsonl, ensure_dir=False),
+        CSVSink(path_stats=path_stats_csv, path_alerts=path_alerts_csv, ensure_dir=False),
+    ]
+    # 可选：把 out_dir 暴露给调用方（例如 Pipeline 想记录 test_stream 路径）
     for s in sinks:
-        t = (s.get("type") or "").lower()
-        if t == "jsonl":
-            out.append(JSONLSink(path_stats=s["path_stats"], path_alerts=s["path_alerts"]))
-        elif t == "csv":
-            out.append(CSVSink(path_stats=s["path_stats"], path_alerts=s["path_alerts"]))
-        elif t == "stdout":
-            out.append(StdoutSink())
-        elif t == "webhook":
-            out.append(
-                WebhookSink(
-                    url_stats=s["url_stats"], url_alerts=s["url_alerts"],
-                    timeout_sec=float(s.get("timeout_sec", 5.0)), max_retries=int(s.get("max_retries", 2))
-                )
-            )
-        else:
-            print(f"[Stage10] Unknown sink type: {t}")
-    return out
+        setattr(s, "_out_dir", out_dir)
+        setattr(s, "_data_dir", data_dir)
+    return sinks

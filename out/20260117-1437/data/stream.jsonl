@@ -1,0 +1,950 @@
+{"sensor_id": "R3-D26", "region": "R3", "reading": 128.51817049510748, "confidence": 0.9046441941006425, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D231", "region": "R2", "reading": 74.58330472804448, "confidence": 0.7755727217907782, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D273", "region": "R3", "reading": 151.52766630554493, "confidence": 0.8271140408411064, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D148", "region": "R4", "reading": 75.24473713221352, "confidence": 0.9211107026653759, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D198", "region": "R3", "reading": 158.569739316135, "confidence": 0.7223869776857753, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D200", "region": "R4", "reading": 85.84854758861627, "confidence": 0.7651581792127342, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D276", "region": "R4", "reading": 88.80326236186183, "confidence": 0.7305780382145514, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D207", "region": "R2", "reading": 72.1509830011602, "confidence": 0.05387828132444092, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D112", "region": "R2", "reading": 149.4497395863674, "confidence": 0.17849214767888416, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D45", "region": "R2", "reading": 99.19625569305194, "confidence": 0.7942011364997418, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D55", "region": "R2", "reading": null, "confidence": 0.9424366549809378, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D292", "region": "R3", "reading": 154.322764443024, "confidence": 0.7390389509008415, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D35", "region": "R3", "reading": 150.51374778500954, "confidence": 0.32261855018949, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D18", "region": "R2", "reading": 14.636257776592082, "confidence": 0.8619227319811573, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R2-D127", "region": "R2", "reading": 101.16756848885363, "confidence": 0.9065979694777029, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D252", "region": "R3", "reading": 117.2002202643825, "confidence": 0.7044011981863857, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D20", "region": "R3", "reading": 151.0860398799946, "confidence": 0.7629572390347238, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D171", "region": "R4", "reading": 90.77187239067334, "confidence": 0.9034584811567881, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D36", "region": "R2", "reading": 108.2708070963753, "confidence": 0.6946232898813745, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D54", "region": "R2", "reading": null, "confidence": 0.051756116487217056, "metadata": {"scenario": "generated", "note": "forced_low_conf|missing"}}
+{"sensor_id": "R2-D268", "region": "R2", "reading": 132.7895383246436, "confidence": 0.9277846938069365, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D54", "region": "R4", "reading": 147.87546335986798, "confidence": 0.8052224283283889, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D36", "region": "R2", "reading": 107.9477838026767, "confidence": 0.6289109386811165, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D281", "region": "R2", "reading": 137.092725578355, "confidence": 0.6111436323367057, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D76", "region": "R3", "reading": 146.28983725072882, "confidence": 0.21394585046222736, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D137", "region": "R3", "reading": 153.91600118848365, "confidence": 0.8757732397876012, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D135", "region": "R3", "reading": 92.587427536168, "confidence": 0.8570957378244688, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D81", "region": "R2", "reading": 130.31629941394473, "confidence": 0.8174737879676974, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D33", "region": "R3", "reading": 127.26933650439199, "confidence": 0.7224748553860085, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D81", "region": "R4", "reading": 84.64265405246326, "confidence": 0.7205772325531068, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D168", "region": "R3", "reading": 151.35915717089068, "confidence": 0.9079780704830427, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D34", "region": "R3", "reading": 153.8888659684165, "confidence": 0.7716131695619701, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D153", "region": "R2", "reading": 85.83274075042993, "confidence": 0.9629819732797218, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D13", "region": "R3", "reading": 149.02001130988472, "confidence": 0.22467321208698982, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D173", "region": "R3", "reading": 127.85871925376583, "confidence": 0.7143834985649524, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D93", "region": "R4", "reading": 62.23920581688424, "confidence": 0.17636350017659597, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D276", "region": "R3", "reading": 128.22799677595955, "confidence": 0.8098075672385311, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D256", "region": "R2", "reading": 120.78865426077502, "confidence": 0.6105912926641828, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D132", "region": "R4", "reading": 79.65450279175175, "confidence": 0.8887517657264267, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D193", "region": "R3", "reading": 149.58679335826457, "confidence": 0.872722505779767, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D49", "region": "R2", "reading": null, "confidence": 0.9402266251770215, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R2-D38", "region": "R2", "reading": 146.52996776988132, "confidence": 0.8080259768394833, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D190", "region": "R3", "reading": 109.76558238977229, "confidence": 0.6270731853277416, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D202", "region": "R3", "reading": 161.09023237252995, "confidence": 0.8849071932990129, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D47", "region": "R2", "reading": 149.0227445931414, "confidence": 0.716377177609359, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D10", "region": "R2", "reading": 85.37527869008173, "confidence": 0.7973637535448026, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D277", "region": "R4", "reading": 85.28615482254686, "confidence": 0.9524700421796236, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D20", "region": "R3", "reading": 155.89933517395937, "confidence": 0.35096045321163016, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D212", "region": "R3", "reading": 154.00377993222688, "confidence": 0.7348602168577465, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D139", "region": "R3", "reading": 94.62987011718614, "confidence": 0.6732549802107289, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D277", "region": "R3", "reading": null, "confidence": 0.7979914029883881, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D45", "region": "R3", "reading": 154.80794605493494, "confidence": 0.7786377702808674, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D107", "region": "R3", "reading": 105.2878555573063, "confidence": 0.191092482837251, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D202", "region": "R2", "reading": 76.14532347280971, "confidence": 0.7625096788206436, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D102", "region": "R3", "reading": 154.61391980534881, "confidence": 0.7831241628446349, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D227", "region": "R4", "reading": 68.18028008817684, "confidence": 0.7050921710944985, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D16", "region": "R3", "reading": 151.9390222538822, "confidence": 0.22779290880790437, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D239", "region": "R3", "reading": 117.57659233397115, "confidence": 0.8210153943663914, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D69", "region": "R3", "reading": 159.99357406450022, "confidence": 0.41538411104046424, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D286", "region": "R3", "reading": 97.10535855898628, "confidence": 0.9038111433219183, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D187", "region": "R3", "reading": 161.3678453886847, "confidence": 0.8283669357173583, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D181", "region": "R4", "reading": 79.51620763837182, "confidence": 0.859110678861999, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D246", "region": "R3", "reading": 129.68571977196837, "confidence": 0.6845234783948816, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D290", "region": "R3", "reading": 145.37921271821654, "confidence": 0.7698439060037997, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D281", "region": "R4", "reading": 87.4492602994692, "confidence": 0.06724023545462492, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D57", "region": "R2", "reading": 66.75471559657433, "confidence": 0.789129346701396, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D113", "region": "R2", "reading": 84.19952666141657, "confidence": 0.948942970197511, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D137", "region": "R3", "reading": 145.63370069750306, "confidence": 0.8242989212487554, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D36", "region": "R3", "reading": 98.40459669242264, "confidence": 0.3919954329923066, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D51", "region": "R2", "reading": 154.2654444064746, "confidence": 0.1587306495952815, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D150", "region": "R3", "reading": 148.54699795964447, "confidence": 0.7137583596348963, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D78", "region": "R3", "reading": 148.35630929760669, "confidence": 0.7950803159205079, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D39", "region": "R2", "reading": 98.96381263964581, "confidence": 0.7135373811403619, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D79", "region": "R2", "reading": 104.63113586836738, "confidence": 0.7023136066366229, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D279", "region": "R4", "reading": 67.9066954703958, "confidence": 0.3567655019265779, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D254", "region": "R4", "reading": 83.68832786828422, "confidence": 0.682513249979754, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D111", "region": "R3", "reading": 146.4906676119235, "confidence": 0.1257363311559045, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D279", "region": "R2", "reading": 115.57417552664216, "confidence": 0.8934931363182311, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D107", "region": "R3", "reading": 163.0530710172476, "confidence": 0.21406815882361235, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D27", "region": "R4", "reading": 145.9858179944109, "confidence": 0.4591457851739521, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D177", "region": "R3", "reading": null, "confidence": 0.6485910439233504, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R4-D182", "region": "R4", "reading": 96.92292733034154, "confidence": 0.8451603534868904, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D234", "region": "R2", "reading": 103.82995305084908, "confidence": 0.7260799044488868, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D271", "region": "R3", "reading": 115.28673194288322, "confidence": 0.6663387719040901, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D108", "region": "R4", "reading": 86.84928207770952, "confidence": 0.9246834009448978, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D293", "region": "R3", "reading": 89.97630118162755, "confidence": 0.726134771777861, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D298", "region": "R2", "reading": 149.4038304634446, "confidence": 0.7155116526747036, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D291", "region": "R3", "reading": 152.83411529711245, "confidence": 0.11651769627796155, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D110", "region": "R2", "reading": 84.90873536310087, "confidence": 0.873683435113066, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D71", "region": "R2", "reading": 113.2896889964002, "confidence": 0.9493643014275115, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D269", "region": "R3", "reading": 165.8858581583, "confidence": 0.8811173509462756, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D36", "region": "R2", "reading": 144.77446899891015, "confidence": 0.30064552735556554, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D177", "region": "R3", "reading": 151.64225902526331, "confidence": 0.5066376296244663, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D81", "region": "R3", "reading": 145.09548433202622, "confidence": 0.7409473866271479, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D4", "region": "R4", "reading": 154.97567734738436, "confidence": 0.746444341575339, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D190", "region": "R3", "reading": 118.40871538873054, "confidence": 0.8640049998154853, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D155", "region": "R3", "reading": 147.49615762451023, "confidence": 0.727266180405539, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D174", "region": "R2", "reading": 79.98767218723451, "confidence": 0.7895551375207398, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D236", "region": "R4", "reading": 64.28559316052855, "confidence": 0.8816027136489659, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D156", "region": "R3", "reading": 152.62720632241638, "confidence": 0.78637557258913, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D132", "region": "R2", "reading": 135.53323588127824, "confidence": 0.7459464539221132, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D17", "region": "R3", "reading": 113.85110078411574, "confidence": 0.6786623203513642, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D149", "region": "R3", "reading": 116.56975474565057, "confidence": 0.6289620311158782, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D78", "region": "R4", "reading": 73.35147784609725, "confidence": 0.39448821492429414, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D1", "region": "R4", "reading": 77.19488772771648, "confidence": 0.6707834135510811, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D246", "region": "R3", "reading": 153.47983211645118, "confidence": 0.8843966983392597, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D101", "region": "R3", "reading": 150.7550287002409, "confidence": 0.7800049618167206, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D201", "region": "R4", "reading": 67.0121705818295, "confidence": 0.9545976132499121, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D205", "region": "R2", "reading": 128.72128210740203, "confidence": 0.6882197247461407, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D102", "region": "R2", "reading": 94.837230121186, "confidence": 0.9315888439251336, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 109.73567524433216, "confidence": 0.9213323001137945, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D7", "region": "R2", "reading": 121.10240472879858, "confidence": 0.7094360187086276, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D235", "region": "R2", "reading": 156.088983944821, "confidence": 0.5171309684983112, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D181", "region": "R3", "reading": 115.48269143495082, "confidence": 0.8222100527858951, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D115", "region": "R3", "reading": 152.0942758402767, "confidence": 0.9171678008007969, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D187", "region": "R2", "reading": 96.38373450336641, "confidence": 0.3996510857831156, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D178", "region": "R4", "reading": 74.62079018019539, "confidence": 0.9076056488476567, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D34", "region": "R2", "reading": 114.24394552040107, "confidence": 0.905671539262138, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D101", "region": "R2", "reading": 93.76477524949054, "confidence": 0.6260537074418986, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D49", "region": "R3", "reading": 152.7469186004711, "confidence": 0.21652828125429768, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D231", "region": "R3", "reading": 153.55696927961466, "confidence": 0.9603630416196587, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D108", "region": "R4", "reading": 86.13167848473533, "confidence": 0.8537408556595605, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D215", "region": "R4", "reading": 74.88798724248299, "confidence": 0.7768656190923252, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D261", "region": "R4", "reading": 87.02261753301222, "confidence": 0.7974305881292506, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D226", "region": "R4", "reading": 71.76395324315527, "confidence": 0.7572339177694016, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D238", "region": "R4", "reading": 62.51111036708935, "confidence": 0.31184320523196873, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D147", "region": "R2", "reading": 93.86824917652393, "confidence": 0.8963926699458633, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D219", "region": "R3", "reading": 147.30481042676806, "confidence": 0.8411944300330838, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D148", "region": "R3", "reading": 89.98397654710405, "confidence": 0.9291242625618004, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D177", "region": "R3", "reading": 140.0072688899861, "confidence": 0.6581651715802262, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D151", "region": "R2", "reading": 156.33929529585328, "confidence": 0.44197533948584455, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D250", "region": "R4", "reading": 78.70735841046236, "confidence": 0.8412737707461626, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D298", "region": "R2", "reading": 88.6971828897675, "confidence": 0.6462632748081286, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D36", "region": "R3", "reading": 127.99103269407756, "confidence": 0.7448812515474958, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D25", "region": "R3", "reading": 120.29275263986625, "confidence": 0.651142925962788, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D243", "region": "R4", "reading": 76.50281424063711, "confidence": 0.888083525268629, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D18", "region": "R2", "reading": 111.92372113956571, "confidence": 0.9393467682823433, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D13", "region": "R2", "reading": 119.20202599855249, "confidence": 0.7041294459794554, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D27", "region": "R2", "reading": 100.78900825099352, "confidence": 0.7213513382642915, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D48", "region": "R3", "reading": 151.08429011745702, "confidence": 0.38508109978307026, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D193", "region": "R2", "reading": 147.69389844201945, "confidence": 0.9266764985732078, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D247", "region": "R3", "reading": 153.57212203606053, "confidence": 0.8773924297960669, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D246", "region": "R2", "reading": 108.9853743575931, "confidence": 0.603707526052463, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D205", "region": "R2", "reading": 89.07557041553767, "confidence": 0.7125050031451051, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D251", "region": "R3", "reading": 162.81064798467685, "confidence": 0.5165519006835189, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D237", "region": "R2", "reading": 106.8633094294711, "confidence": 0.7938294891262588, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D253", "region": "R2", "reading": 84.6854443128665, "confidence": 0.7491356620644218, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D166", "region": "R2", "reading": 93.21534870815621, "confidence": 0.6650113395835593, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D275", "region": "R2", "reading": 93.39212153156781, "confidence": 0.06100528728437238, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D242", "region": "R3", "reading": 158.79659800947633, "confidence": 0.7158963103808162, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D66", "region": "R3", "reading": 147.94191871842733, "confidence": 0.9327212952110304, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D114", "region": "R4", "reading": 67.76220209730792, "confidence": 0.789521418775546, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D46", "region": "R3", "reading": 154.25003109103804, "confidence": 0.1702276811553966, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D192", "region": "R3", "reading": 153.08625670362952, "confidence": 0.846049897634663, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D254", "region": "R2", "reading": 85.92727703228655, "confidence": 0.9659079101598187, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D11", "region": "R2", "reading": 94.08809132585188, "confidence": 0.7603524042838534, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D202", "region": "R2", "reading": 105.98277588265175, "confidence": 0.7749667020818243, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D287", "region": "R4", "reading": 78.86444509026131, "confidence": 0.8343154380737862, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D296", "region": "R3", "reading": 157.90020084887604, "confidence": 0.8665029197499007, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D104", "region": "R3", "reading": 158.39238763406735, "confidence": 0.7880067069900876, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D97", "region": "R3", "reading": 163.7707151591808, "confidence": 0.33889035558831515, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D290", "region": "R2", "reading": 97.37848286179029, "confidence": 0.7182311400254002, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D32", "region": "R3", "reading": 163.82635317790505, "confidence": 0.34957911301243444, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D110", "region": "R4", "reading": 78.99587543819344, "confidence": 0.8916050699165803, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D152", "region": "R4", "reading": 73.87682864517707, "confidence": 0.6270348705391592, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D184", "region": "R3", "reading": 152.1364661766683, "confidence": 0.8141811867279615, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D48", "region": "R4", "reading": 90.38592207646056, "confidence": 0.7447796404217903, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D164", "region": "R4", "reading": 108.88660580533224, "confidence": 0.6158455979589169, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D204", "region": "R3", "reading": 151.14967256427286, "confidence": 0.7129626634892017, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D164", "region": "R3", "reading": null, "confidence": 0.8328686579690661, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R4-D128", "region": "R4", "reading": 99.48936161311775, "confidence": 0.845899895850719, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D149", "region": "R3", "reading": 157.8223884153718, "confidence": 0.10003462289961357, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D134", "region": "R3", "reading": 150.36098007368741, "confidence": 0.7807558456050611, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D41", "region": "R4", "reading": null, "confidence": 0.8425895489172512, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D214", "region": "R3", "reading": 145.2894799977242, "confidence": 0.875396365089427, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D74", "region": "R3", "reading": 131.05026853841468, "confidence": 0.8012612220581605, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D160", "region": "R2", "reading": 93.67362733770413, "confidence": 0.698162479018555, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D185", "region": "R3", "reading": 139.17058850985535, "confidence": 0.15461745931240956, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D153", "region": "R3", "reading": 152.4965419688239, "confidence": 0.9319063659553511, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D147", "region": "R2", "reading": 94.35372345627687, "confidence": 0.7563684120314239, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D246", "region": "R3", "reading": 152.0751916277995, "confidence": 0.817065122665199, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D153", "region": "R4", "reading": 80.97394298605143, "confidence": 0.7041512010141413, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D12", "region": "R4", "reading": 86.81344950273908, "confidence": 0.8145338738913275, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D25", "region": "R3", "reading": 154.30474550619113, "confidence": 0.8888502748365241, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D135", "region": "R3", "reading": 127.76366396466294, "confidence": 0.66223865445939, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D102", "region": "R4", "reading": 96.35565539923451, "confidence": 0.7172890933182573, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D111", "region": "R3", "reading": 152.73836039285024, "confidence": 0.7883496655745023, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D30", "region": "R4", "reading": 82.72195249570136, "confidence": 0.7813043682443889, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D268", "region": "R2", "reading": 106.098055060189, "confidence": 0.31426781460278447, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D213", "region": "R2", "reading": 148.34053885441259, "confidence": 0.07069879717996211, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D231", "region": "R2", "reading": 68.09866622198652, "confidence": 0.6042508675266965, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D251", "region": "R3", "reading": 153.44763504225034, "confidence": 0.9643449371107311, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D246", "region": "R3", "reading": 51.453485887696985, "confidence": 0.08635945495352887, "metadata": {"scenario": "generated", "note": "forced_low_conf|corrupted"}}
+{"sensor_id": "R2-D173", "region": "R2", "reading": 159.4013366438038, "confidence": 0.7583316267998856, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D20", "region": "R3", "reading": 154.5170834635433, "confidence": 0.8468372378241867, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D151", "region": "R3", "reading": 157.20071055434295, "confidence": 0.2765488008345156, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D206", "region": "R3", "reading": 153.54611141221412, "confidence": 0.2326100816158449, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D235", "region": "R2", "reading": 88.67122059049314, "confidence": 0.6521286912582492, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D2", "region": "R2", "reading": 121.84060105404839, "confidence": 0.1696140466675707, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D4", "region": "R3", "reading": 146.40254443850435, "confidence": 0.7882991155562391, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D263", "region": "R3", "reading": 151.66209841325443, "confidence": 0.2904812038954047, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D108", "region": "R4", "reading": 73.47704688726489, "confidence": 0.636546337318499, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D68", "region": "R3", "reading": 146.23453078881, "confidence": 0.9037633299832256, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D119", "region": "R3", "reading": 146.1372539615412, "confidence": 0.8112877306207078, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D239", "region": "R4", "reading": 83.4838872959732, "confidence": 0.28969668010492167, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D53", "region": "R3", "reading": 166.19013451970878, "confidence": 0.2942869009552407, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D186", "region": "R2", "reading": 107.79734374544564, "confidence": 0.6706925503122507, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D87", "region": "R2", "reading": 92.40487841422534, "confidence": 0.8821052131484326, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D172", "region": "R4", "reading": 69.90473346545421, "confidence": 0.25026056157624704, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D12", "region": "R3", "reading": 156.80107725556712, "confidence": 0.22625091921728166, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D53", "region": "R4", "reading": 67.20366243315739, "confidence": 0.8637045900337552, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D171", "region": "R4", "reading": 65.56912294587349, "confidence": 0.21568312876838863, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D100", "region": "R2", "reading": 101.35572547383843, "confidence": 0.2386705543606848, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D57", "region": "R3", "reading": 137.734263410716, "confidence": 0.9231945536259993, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D264", "region": "R2", "reading": 96.59218036858749, "confidence": 0.6957675270555962, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D210", "region": "R2", "reading": 121.28889860220332, "confidence": 0.7246297182526606, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D130", "region": "R2", "reading": 110.2425027924902, "confidence": 0.6483216996758063, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D185", "region": "R4", "reading": 87.73866669477451, "confidence": 0.6556887558717654, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D275", "region": "R2", "reading": 139.59977410041068, "confidence": 0.7909813451330721, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D137", "region": "R2", "reading": 154.21557714284674, "confidence": 0.13804847348412508, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D192", "region": "R2", "reading": 84.84905392704532, "confidence": 0.9186812849750134, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D161", "region": "R4", "reading": 72.3557519776971, "confidence": 0.766115588496403, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D159", "region": "R3", "reading": 154.1441369586145, "confidence": 0.7873052622777659, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D27", "region": "R4", "reading": 73.50300556233582, "confidence": 0.8325952031736682, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D190", "region": "R4", "reading": 81.31327183957114, "confidence": 0.8340635742063944, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D254", "region": "R3", "reading": 151.72124077065084, "confidence": 0.8851563980125013, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D68", "region": "R3", "reading": 151.6813781522503, "confidence": 0.8621810143825819, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D53", "region": "R3", "reading": 117.5593197167331, "confidence": 0.6726332399189331, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D271", "region": "R3", "reading": 150.260242246403, "confidence": 0.7602784317216994, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D170", "region": "R3", "reading": 151.13939361792032, "confidence": 0.8061837887278197, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D281", "region": "R4", "reading": 76.60337678835553, "confidence": 0.6058278333308879, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D201", "region": "R4", "reading": 83.70887071647097, "confidence": 0.6400686310845235, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D8", "region": "R4", "reading": 80.34909346910699, "confidence": 0.20627100159749567, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D57", "region": "R3", "reading": 151.9800062546724, "confidence": 0.7462059018727403, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D178", "region": "R3", "reading": null, "confidence": 0.3375416069170267, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D216", "region": "R3", "reading": 104.16192799494561, "confidence": 0.6775505700688222, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 146.1054377108901, "confidence": 0.7948845694012304, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D37", "region": "R2", "reading": 135.60197368960777, "confidence": 0.9695803055765992, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D186", "region": "R4", "reading": 164.07696427184112, "confidence": 0.8149478985398165, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D62", "region": "R3", "reading": 153.37726703282829, "confidence": 0.32289713553446164, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D134", "region": "R4", "reading": 149.97769934428854, "confidence": 0.948310329933697, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D213", "region": "R3", "reading": 153.95503878818838, "confidence": 0.20201222034972838, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D259", "region": "R3", "reading": 143.93392681323417, "confidence": 0.8384194661929864, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D65", "region": "R3", "reading": 146.1283590802032, "confidence": 0.7160173576802021, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D130", "region": "R2", "reading": 156.49282594194094, "confidence": 0.37137417956897983, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D59", "region": "R4", "reading": 64.44137696526344, "confidence": 0.9180803328021631, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D105", "region": "R3", "reading": 115.26587543005249, "confidence": 0.6770569187237099, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D231", "region": "R4", "reading": 81.43877996813018, "confidence": 0.136447684888304, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D225", "region": "R2", "reading": 160.83489164249326, "confidence": 0.8863353894259645, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D228", "region": "R4", "reading": 106.02892413690103, "confidence": 0.912249780767665, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D61", "region": "R2", "reading": 92.78396423311554, "confidence": 0.6138079300262207, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D86", "region": "R2", "reading": 131.1819253328816, "confidence": 0.8025578795761295, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D113", "region": "R4", "reading": 66.70243810746067, "confidence": 0.6986678961620156, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D11", "region": "R3", "reading": 161.7302733492635, "confidence": 0.9440214081030808, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D228", "region": "R3", "reading": 150.80064072100612, "confidence": 0.9417889972682062, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D246", "region": "R4", "reading": 85.05874553374724, "confidence": 0.7891830924837452, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D97", "region": "R4", "reading": 85.2048476022449, "confidence": 0.8017174457649543, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D34", "region": "R3", "reading": 151.11793232067564, "confidence": 0.7200234195794843, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D65", "region": "R3", "reading": 151.71545554814554, "confidence": 0.8201974669421626, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D63", "region": "R2", "reading": 111.36048762308243, "confidence": 0.844572823230048, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D47", "region": "R3", "reading": 148.14313970676636, "confidence": 0.758937637315446, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D90", "region": "R3", "reading": 147.34254826585092, "confidence": 0.780573354376219, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D292", "region": "R4", "reading": 90.27944104744469, "confidence": 0.7061853464185719, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D56", "region": "R3", "reading": 153.89384535046608, "confidence": 0.8035237721824225, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D26", "region": "R4", "reading": 98.26309773762675, "confidence": 0.7274865040862823, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D208", "region": "R2", "reading": 162.67202487808711, "confidence": 0.46078119238872994, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D252", "region": "R2", "reading": 109.35544858186805, "confidence": 0.8778796045186886, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D185", "region": "R2", "reading": 101.01842515543238, "confidence": 0.6540952259263058, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D174", "region": "R2", "reading": 117.81723332573819, "confidence": 0.24671499619055415, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D226", "region": "R3", "reading": 110.43425191789859, "confidence": 0.9044167529169034, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D54", "region": "R3", "reading": 150.7195930533653, "confidence": 0.897408131415756, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D179", "region": "R2", "reading": 108.33583072642469, "confidence": 0.8910191880171787, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D125", "region": "R4", "reading": 66.89431835825873, "confidence": 0.8928673352438697, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D161", "region": "R3", "reading": 156.47460967397353, "confidence": 0.43171482688880514, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D190", "region": "R2", "reading": null, "confidence": 0.6292255452694973, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D51", "region": "R3", "reading": 149.59603666972146, "confidence": 0.5306124633893594, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D24", "region": "R3", "reading": 113.77743902236853, "confidence": 0.3151013262002757, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D17", "region": "R4", "reading": 91.74924594170922, "confidence": 0.9440897100218826, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D53", "region": "R3", "reading": 163.40432532872876, "confidence": 0.14203824451250663, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D24", "region": "R4", "reading": 91.92902400794333, "confidence": 0.7593644765331886, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D151", "region": "R4", "reading": 77.84627140481784, "confidence": 0.9009396195915274, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D232", "region": "R3", "reading": 153.5922679073942, "confidence": 0.09601673623355052, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D252", "region": "R4", "reading": 74.69628190539419, "confidence": 0.8452420289050447, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D82", "region": "R3", "reading": 154.33269642983498, "confidence": 0.4944348393010328, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D216", "region": "R3", "reading": 153.47676714381564, "confidence": 0.7007870873706136, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D73", "region": "R3", "reading": 153.60231036758904, "confidence": 0.8939340129001413, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D120", "region": "R3", "reading": 151.51863158547263, "confidence": 0.37816853397220906, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D278", "region": "R3", "reading": 148.84969606157264, "confidence": 0.4123976198984224, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D190", "region": "R4", "reading": 82.48452852394678, "confidence": 0.8819022723254208, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D15", "region": "R3", "reading": null, "confidence": 0.7448656434069754, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D130", "region": "R3", "reading": 155.12570103402993, "confidence": 0.8480511800682228, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D194", "region": "R3", "reading": 101.58142757259074, "confidence": 0.6575580880600459, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D274", "region": "R3", "reading": 163.75490673390084, "confidence": 0.8600698915877069, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D127", "region": "R3", "reading": 150.54090228517163, "confidence": 0.8832339886259738, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D134", "region": "R2", "reading": 63.165051461793, "confidence": 0.6769346913833889, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D42", "region": "R3", "reading": 153.03433950154408, "confidence": 0.3251295657540688, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D212", "region": "R3", "reading": 152.1055664324055, "confidence": 0.785275585221994, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D140", "region": "R3", "reading": 110.774247159021, "confidence": 0.15426807099877965, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D140", "region": "R2", "reading": 101.55445007912489, "confidence": 0.9109734630662777, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D129", "region": "R3", "reading": 151.06090527967103, "confidence": 0.9194799278950986, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D162", "region": "R4", "reading": 79.50818875516406, "confidence": 0.6175674147738607, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D10", "region": "R4", "reading": 65.84486703305221, "confidence": 0.9016544557686302, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D185", "region": "R3", "reading": null, "confidence": 0.34260137255368217, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D195", "region": "R3", "reading": 109.85383279243577, "confidence": 0.7678360728841579, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D263", "region": "R3", "reading": 135.87877179740144, "confidence": 0.9507820980005455, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D74", "region": "R3", "reading": 153.51044323556178, "confidence": 0.2943934448272697, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D201", "region": "R3", "reading": 152.94988184915468, "confidence": 0.7794245543448404, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D183", "region": "R4", "reading": 83.85033289885709, "confidence": 0.18165149075553316, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D258", "region": "R3", "reading": 152.2685138436977, "confidence": 0.8373207055401034, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D64", "region": "R4", "reading": 90.4981593993672, "confidence": 0.6863347965643755, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D226", "region": "R4", "reading": 81.21439743339118, "confidence": 0.17655034381649964, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D107", "region": "R2", "reading": 98.31765498219488, "confidence": 0.713565260214448, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D105", "region": "R4", "reading": 160.17648832173032, "confidence": 0.2183691044757592, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D167", "region": "R3", "reading": 127.1975480817982, "confidence": 0.7744259456167777, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D26", "region": "R3", "reading": 155.564678859371, "confidence": 0.46541387619034424, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D244", "region": "R4", "reading": 74.37091148726091, "confidence": 0.8637772142708494, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D163", "region": "R3", "reading": 153.93278695799629, "confidence": 0.13124984112678523, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D6", "region": "R2", "reading": 102.61065411830138, "confidence": 0.7104942688732759, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D53", "region": "R4", "reading": 107.36815458888505, "confidence": 0.2493206332940111, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D87", "region": "R3", "reading": 146.92542831217665, "confidence": 0.7355755091528348, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D180", "region": "R2", "reading": 149.33645271805534, "confidence": 0.8814796477128297, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D88", "region": "R3", "reading": 153.10771400215276, "confidence": 0.5238581073249731, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D174", "region": "R2", "reading": 102.98877625415486, "confidence": 0.7791655023962077, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D290", "region": "R3", "reading": 120.99251206395444, "confidence": 0.7592113499724193, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D79", "region": "R3", "reading": 125.51321404016034, "confidence": 0.8787370555838843, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D119", "region": "R4", "reading": 69.93412650141124, "confidence": 0.6290707680636151, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D19", "region": "R3", "reading": 120.2650970183239, "confidence": 0.7325196963882011, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D192", "region": "R3", "reading": 150.56687901206539, "confidence": 0.9395907759930215, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D74", "region": "R4", "reading": 90.58428714853463, "confidence": 0.6519425754582707, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D92", "region": "R2", "reading": 163.2422121566834, "confidence": 0.7911188887221606, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D247", "region": "R3", "reading": 124.25545089403131, "confidence": 0.9459669923543517, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D70", "region": "R4", "reading": 83.17669201512057, "confidence": 0.701647165270451, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D21", "region": "R3", "reading": 150.87227948587596, "confidence": 0.8333123678114024, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D82", "region": "R4", "reading": 88.74867258076105, "confidence": 0.7253829279609009, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D153", "region": "R4", "reading": 74.91242007975188, "confidence": 0.7130417184500931, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D281", "region": "R4", "reading": 73.80204269529168, "confidence": 0.19229785173211394, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D123", "region": "R3", "reading": 145.0308681410179, "confidence": 0.9074833173709663, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D128", "region": "R3", "reading": 158.9284930637079, "confidence": 0.8585252200925229, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D52", "region": "R2", "reading": 101.57158364495098, "confidence": 0.7895147777737357, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D224", "region": "R2", "reading": 113.33951936693789, "confidence": 0.8772031288511066, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D5", "region": "R3", "reading": 170.8130241927183, "confidence": 0.7847784203329451, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D292", "region": "R4", "reading": 68.47221360513008, "confidence": 0.2278122546789783, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D193", "region": "R2", "reading": 145.29544532982175, "confidence": 0.9698727658838694, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D171", "region": "R3", "reading": 127.08650172401067, "confidence": 0.8156269548542654, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D149", "region": "R3", "reading": 150.21314191035998, "confidence": 0.5178649431301008, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D145", "region": "R4", "reading": 70.2450506177986, "confidence": 0.6754550094296345, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D218", "region": "R4", "reading": 92.83744393859894, "confidence": 0.8721830177455835, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D277", "region": "R3", "reading": 150.1368018934418, "confidence": 0.8798170171836994, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D70", "region": "R2", "reading": 150.44363879023817, "confidence": 0.5117572636433925, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D20", "region": "R3", "reading": 154.15756117464235, "confidence": 0.9429866096672911, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D70", "region": "R3", "reading": 147.4634554104399, "confidence": 0.7374204198544936, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D93", "region": "R4", "reading": 76.76411000759795, "confidence": 0.6557357292198083, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D194", "region": "R4", "reading": 82.1160994826642, "confidence": 0.8931735619106682, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D147", "region": "R2", "reading": 108.19922419008856, "confidence": 0.7519972194887451, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D277", "region": "R2", "reading": 70.67173303117323, "confidence": 0.309426287694373, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D243", "region": "R3", "reading": 125.82719403245268, "confidence": 0.6298789677374348, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D14", "region": "R3", "reading": 154.82154444699617, "confidence": 0.15767523378526946, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D7", "region": "R3", "reading": 152.9419003558315, "confidence": 0.3903913341545321, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D176", "region": "R3", "reading": 108.34613760962282, "confidence": 0.6763601437161454, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D20", "region": "R2", "reading": 105.7344069534095, "confidence": 0.9421552655067331, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D254", "region": "R4", "reading": 92.21311213142337, "confidence": 0.781900752454351, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D228", "region": "R2", "reading": 98.6913877551435, "confidence": 0.7978081520909549, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D241", "region": "R2", "reading": 101.69834351807769, "confidence": 0.8643736265145385, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D86", "region": "R2", "reading": 93.22441260038372, "confidence": 0.9526766566651985, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D291", "region": "R4", "reading": 78.45446996379405, "confidence": 0.7861390959945038, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D36", "region": "R4", "reading": 70.85469170115103, "confidence": 0.7903479706611765, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D168", "region": "R3", "reading": 157.47198043848516, "confidence": 0.9051131853537377, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D24", "region": "R3", "reading": 146.9804258799882, "confidence": 0.7328106472811731, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D173", "region": "R3", "reading": 155.02444043237398, "confidence": 0.847479163435414, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D7", "region": "R4", "reading": 74.79857501365467, "confidence": 0.6538017407669431, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D175", "region": "R3", "reading": 127.80219922488864, "confidence": 0.7164787536555867, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D269", "region": "R3", "reading": 150.11712556032208, "confidence": 0.47453259674751835, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D97", "region": "R3", "reading": 153.4202464747899, "confidence": 0.8447568892293805, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D60", "region": "R4", "reading": null, "confidence": 0.7370653580264515, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R4-D266", "region": "R4", "reading": 87.97356916696125, "confidence": 0.13913141816132477, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D170", "region": "R2", "reading": 85.66486037716588, "confidence": 0.15459097335206762, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D269", "region": "R4", "reading": 85.21321161822206, "confidence": 0.6964632865367075, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D241", "region": "R2", "reading": 115.58346251057438, "confidence": 0.709684190960242, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D248", "region": "R3", "reading": 150.69498710773743, "confidence": 0.22022026805247905, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D280", "region": "R2", "reading": 96.69508949304594, "confidence": 0.32781971186084374, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D129", "region": "R3", "reading": 102.63903621122945, "confidence": 0.6768226235613417, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D174", "region": "R2", "reading": 94.18575392248123, "confidence": 0.800231605373785, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D34", "region": "R3", "reading": 121.95141818520828, "confidence": 0.6646013867985935, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D51", "region": "R3", "reading": 151.6486911868589, "confidence": 0.9209675485134696, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D219", "region": "R3", "reading": 151.66643613513958, "confidence": 0.8500588630396713, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D122", "region": "R2", "reading": 143.1502996241827, "confidence": 0.768031072342484, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D187", "region": "R3", "reading": 153.4046317348558, "confidence": 0.8243086979889632, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D220", "region": "R2", "reading": null, "confidence": 0.6157270835742409, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D54", "region": "R3", "reading": 151.18870345661696, "confidence": 0.45289514008877907, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D127", "region": "R2", "reading": 96.00136682334588, "confidence": 0.6007162273638639, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D279", "region": "R2", "reading": 161.42857710506144, "confidence": 0.12168435717612046, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D42", "region": "R3", "reading": 106.64828247385077, "confidence": 0.25264890760438546, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D26", "region": "R3", "reading": 151.40626825704467, "confidence": 0.8515148472562633, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D52", "region": "R4", "reading": 78.21772212380633, "confidence": 0.6094047792580727, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D217", "region": "R2", "reading": 115.94371698100207, "confidence": 0.9491666824687173, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D138", "region": "R3", "reading": 153.00214080632327, "confidence": 0.7698465910380942, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D59", "region": "R3", "reading": 156.09372872636035, "confidence": 0.7253961135367528, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D63", "region": "R3", "reading": 157.59657507003212, "confidence": 0.8001054809336834, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D267", "region": "R4", "reading": 78.58912537697353, "confidence": 0.7090872341481406, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D205", "region": "R4", "reading": 69.86994731051766, "confidence": 0.8278221324136645, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D81", "region": "R2", "reading": 66.44525278001967, "confidence": 0.7301296385224233, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D288", "region": "R2", "reading": 116.33523371203017, "confidence": 0.6428050600199019, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D68", "region": "R4", "reading": 84.89598309367578, "confidence": 0.8472864023500593, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D152", "region": "R3", "reading": 116.15800119757068, "confidence": 0.6805837445166422, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D11", "region": "R3", "reading": 118.96564016086653, "confidence": 0.8484694221708504, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D110", "region": "R4", "reading": 76.60420225721734, "confidence": 0.8931765727102593, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D159", "region": "R2", "reading": 94.87422136953099, "confidence": 0.8302321475767618, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D125", "region": "R4", "reading": 70.33619839009424, "confidence": 0.6999486160106482, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D56", "region": "R4", "reading": 85.12324072489668, "confidence": 0.9040734541870227, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D101", "region": "R3", "reading": 145.68933313108462, "confidence": 0.1326455327864079, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D223", "region": "R2", "reading": 90.72319123843778, "confidence": 0.6280695181180072, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D97", "region": "R2", "reading": 72.51990456245868, "confidence": 0.36476799148574346, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D101", "region": "R3", "reading": 150.07227612103134, "confidence": 0.1810241636876141, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D77", "region": "R4", "reading": null, "confidence": 0.7408754118555687, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D64", "region": "R2", "reading": 151.87567572820996, "confidence": 0.7867524289263818, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D164", "region": "R3", "reading": 151.3808089633931, "confidence": 0.33832434022768093, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D39", "region": "R2", "reading": 104.52698657006182, "confidence": 0.8837098186710707, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D246", "region": "R2", "reading": 162.29169959515983, "confidence": 0.26004615400327546, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D10", "region": "R4", "reading": 73.71434075955797, "confidence": 0.06614400871403738, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D259", "region": "R2", "reading": 153.61941891328536, "confidence": 0.8167623242401061, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D185", "region": "R4", "reading": 80.38844817215536, "confidence": 0.8663607157436934, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D267", "region": "R4", "reading": 93.81498252282466, "confidence": 0.28109172385309705, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D244", "region": "R4", "reading": 152.45121818914447, "confidence": 0.7032303502198933, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D2", "region": "R2", "reading": 86.1439320620101, "confidence": 0.8566350993301057, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D38", "region": "R2", "reading": 151.27474216025595, "confidence": 0.7867544610915191, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D228", "region": "R2", "reading": 103.38409043043302, "confidence": 0.3405334718411968, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D251", "region": "R3", "reading": 151.66586024317604, "confidence": 0.8785910803482047, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D181", "region": "R3", "reading": 129.28121218299702, "confidence": 0.7631925563930203, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D247", "region": "R3", "reading": 151.1377688524423, "confidence": 0.6320064363149226, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D188", "region": "R3", "reading": 149.102936312876, "confidence": 0.7897071203082348, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D270", "region": "R3", "reading": 151.31455085431938, "confidence": 0.8126022417981735, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D246", "region": "R3", "reading": 116.69078836929961, "confidence": 0.6856332374936978, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D105", "region": "R4", "reading": 78.8262709408176, "confidence": 0.9449394158340368, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D238", "region": "R3", "reading": 146.08770744821766, "confidence": 0.7471005054110833, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D252", "region": "R2", "reading": 105.87853003964224, "confidence": 0.7013117216548299, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D173", "region": "R3", "reading": 110.64526677573421, "confidence": 0.8556888781879304, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D120", "region": "R3", "reading": 154.36720303734938, "confidence": 0.884923001482276, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D180", "region": "R2", "reading": 92.44536981404991, "confidence": 0.6638879752583127, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D13", "region": "R2", "reading": 102.64461651659916, "confidence": 0.8798776796836756, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D157", "region": "R4", "reading": 72.21966301157865, "confidence": 0.9378238948401983, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D101", "region": "R3", "reading": 151.72035653759718, "confidence": 0.6750228911327568, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D101", "region": "R3", "reading": 148.24299494836046, "confidence": 0.8986721303147276, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D113", "region": "R3", "reading": 146.38341659743313, "confidence": 0.7702322718360248, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D158", "region": "R4", "reading": 68.80054453588195, "confidence": 0.264314655785621, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D120", "region": "R3", "reading": 154.92274094338032, "confidence": 0.7978644100332248, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D297", "region": "R2", "reading": 87.99028964925074, "confidence": 0.7452631015518539, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D147", "region": "R2", "reading": 92.59556813663859, "confidence": 0.9473513803430496, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D13", "region": "R3", "reading": 117.62004042203768, "confidence": 0.2548660150214523, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D284", "region": "R2", "reading": 117.04689346780238, "confidence": 0.9181491672971381, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D98", "region": "R2", "reading": 109.34388002983877, "confidence": 0.6600179432526044, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D295", "region": "R4", "reading": 84.03750703112335, "confidence": 0.7830460052886863, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D148", "region": "R4", "reading": 83.25319679597406, "confidence": 0.8744518353921434, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D55", "region": "R3", "reading": 155.9841411991555, "confidence": 0.7784267872446633, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D198", "region": "R2", "reading": 82.2303631822663, "confidence": 0.712623196429866, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D25", "region": "R3", "reading": 152.20369778694385, "confidence": 0.8498356160064608, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D196", "region": "R3", "reading": 150.33685149587532, "confidence": 0.9076165293041075, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D144", "region": "R4", "reading": 78.86958075671767, "confidence": 0.882227005486061, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D100", "region": "R4", "reading": 101.51982412916956, "confidence": 0.6222351132506369, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D298", "region": "R4", "reading": 73.58300038945914, "confidence": 0.9256777869759076, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D297", "region": "R4", "reading": 2.2212883253431635, "confidence": 0.828282909038071, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D19", "region": "R3", "reading": 104.23063703002039, "confidence": 0.774202519610196, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D83", "region": "R3", "reading": 112.99536762298702, "confidence": 0.6305531505325974, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D169", "region": "R2", "reading": null, "confidence": 0.8735576903976173, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D82", "region": "R2", "reading": 170.717475617483, "confidence": 0.9175992865524683, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D291", "region": "R2", "reading": 93.5939269935908, "confidence": 0.919189543286135, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D277", "region": "R3", "reading": 146.94724725624718, "confidence": 0.25690446653845683, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D124", "region": "R3", "reading": 150.82933231032683, "confidence": 0.905804003755385, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D39", "region": "R4", "reading": 83.63132082630179, "confidence": 0.09837433475976132, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D281", "region": "R2", "reading": 98.62562246437294, "confidence": 0.9592676823109855, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D160", "region": "R2", "reading": 149.74089945623282, "confidence": 0.859893685822755, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D7", "region": "R4", "reading": 74.4850936310635, "confidence": 0.7569706439852532, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D166", "region": "R3", "reading": 153.93346765053747, "confidence": 0.8325067476392664, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D196", "region": "R2", "reading": 85.48497586837941, "confidence": 0.6971513432135673, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D24", "region": "R4", "reading": 87.37083117139036, "confidence": 0.8096220235883944, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D4", "region": "R4", "reading": null, "confidence": 0.8506227062016873, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D300", "region": "R2", "reading": 156.52842650884094, "confidence": 0.9168063206904529, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D87", "region": "R3", "reading": 125.03880848080928, "confidence": 0.6077312808219716, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D40", "region": "R2", "reading": 17.4764806375711, "confidence": 0.7329814540195311, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D264", "region": "R3", "reading": 153.11779211761836, "confidence": 0.3626787512987949, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D66", "region": "R2", "reading": 150.54020236273465, "confidence": 0.8918646723402488, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D254", "region": "R2", "reading": 146.37817339201698, "confidence": 0.11033135752815602, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D186", "region": "R3", "reading": 153.52004622331827, "confidence": 0.7725997113078036, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D53", "region": "R4", "reading": null, "confidence": 0.6940945170439667, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D265", "region": "R2", "reading": 151.47805386932035, "confidence": 0.16197479011249397, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D114", "region": "R3", "reading": 150.60377816747103, "confidence": 0.5248568305735383, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D89", "region": "R3", "reading": 150.15751355081645, "confidence": 0.7420824825570086, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D194", "region": "R2", "reading": 149.97461209262423, "confidence": 0.5245188209167327, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D182", "region": "R3", "reading": 150.27149292921183, "confidence": 0.1626565337592603, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D81", "region": "R2", "reading": 123.7307165798368, "confidence": 0.6426043967432162, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D185", "region": "R4", "reading": 96.43040952263803, "confidence": 0.9289728718131398, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D88", "region": "R2", "reading": 73.25408955166253, "confidence": 0.2691077391539328, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D178", "region": "R4", "reading": 75.8353715057814, "confidence": 0.8828544020944807, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D199", "region": "R3", "reading": 86.94878274318108, "confidence": 0.7542875570722157, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D20", "region": "R2", "reading": null, "confidence": 0.6184201309409809, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R3-D34", "region": "R3", "reading": 128.67104721342992, "confidence": 0.9557371313792706, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D99", "region": "R4", "reading": 88.28754182807562, "confidence": 0.7946394983076284, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D133", "region": "R3", "reading": 151.2074075061065, "confidence": 0.7835644540020983, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D133", "region": "R4", "reading": 78.82648516801656, "confidence": 0.28610413884481845, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D105", "region": "R4", "reading": 89.7357036541313, "confidence": 0.859738990384675, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D285", "region": "R2", "reading": null, "confidence": 0.8424965567914635, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D257", "region": "R2", "reading": 143.76375890866905, "confidence": 0.3465597044798381, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D179", "region": "R4", "reading": 91.35032699876707, "confidence": 0.7059882013640228, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D269", "region": "R3", "reading": 163.62510031762358, "confidence": 0.7058993576397864, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D138", "region": "R3", "reading": 153.8184222722309, "confidence": 0.1168788148763221, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D211", "region": "R2", "reading": 90.35078579458204, "confidence": 0.3189092719274358, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D228", "region": "R3", "reading": 111.455009878183, "confidence": 0.7789024465691747, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D58", "region": "R3", "reading": 167.3831936536379, "confidence": 0.9031539985306725, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D186", "region": "R3", "reading": 156.3938251605731, "confidence": 0.7909825016226277, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D154", "region": "R4", "reading": 71.67096487517377, "confidence": 0.8949650292181947, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D283", "region": "R2", "reading": 145.3195322309659, "confidence": 0.2200290318026569, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D257", "region": "R4", "reading": 82.21767053977113, "confidence": 0.27664960454966836, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D22", "region": "R3", "reading": 152.8955867377828, "confidence": 0.8702192856337229, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D212", "region": "R3", "reading": 103.31204903284979, "confidence": 0.6488188192519675, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D33", "region": "R4", "reading": 59.83363682034276, "confidence": 0.1512239172837801, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D29", "region": "R4", "reading": 84.66770088507815, "confidence": 0.6657391861761708, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D9", "region": "R4", "reading": 56.78128731994202, "confidence": 0.7010953177631639, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D64", "region": "R4", "reading": 95.43906244137962, "confidence": 0.7552623902602041, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D178", "region": "R2", "reading": 146.62217542528106, "confidence": 0.9045266137090853, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D96", "region": "R4", "reading": 103.0709933980293, "confidence": 0.732943874672684, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D287", "region": "R4", "reading": 72.6908832660091, "confidence": 0.8696876728593448, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D77", "region": "R3", "reading": 152.9436854710425, "confidence": 0.7215593636147243, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D57", "region": "R4", "reading": 69.65422633086526, "confidence": 0.9672315094245073, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D171", "region": "R3", "reading": 104.48148619421464, "confidence": 0.6779679914060507, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D30", "region": "R3", "reading": 147.79182849205432, "confidence": 0.8242857245247748, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D72", "region": "R3", "reading": 148.5497605242793, "confidence": 0.7228292269764306, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D118", "region": "R4", "reading": 72.57917638441418, "confidence": 0.763126063813504, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D170", "region": "R2", "reading": 161.9442443007623, "confidence": 0.9139472052353176, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D103", "region": "R3", "reading": 124.83798212694026, "confidence": 0.9474043361156994, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D291", "region": "R4", "reading": 102.9285212157711, "confidence": 0.8543314198728909, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D142", "region": "R2", "reading": 146.588071278367, "confidence": 0.37613626986824444, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D21", "region": "R3", "reading": 147.9896227963487, "confidence": 0.42273889890111715, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D295", "region": "R2", "reading": 97.05679903785845, "confidence": 0.8653348752271596, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D249", "region": "R2", "reading": null, "confidence": 0.7463936866600429, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D39", "region": "R2", "reading": 97.52300211010721, "confidence": 0.9616009657115363, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D22", "region": "R3", "reading": 105.0485831897237, "confidence": 0.8444683045207814, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D208", "region": "R3", "reading": 154.4003766477127, "confidence": 0.22160212811263685, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D51", "region": "R2", "reading": 116.60628095765429, "confidence": 0.9397165752148158, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D194", "region": "R3", "reading": 149.85960068337644, "confidence": 0.7834478125362625, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D127", "region": "R2", "reading": 103.43986014619463, "confidence": 0.9509090285039483, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D78", "region": "R2", "reading": 116.25887914659187, "confidence": 0.741021308708219, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D75", "region": "R2", "reading": 113.89939438923007, "confidence": 0.9658104044092568, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D129", "region": "R3", "reading": 154.24255463957707, "confidence": 0.1716787145390464, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D3", "region": "R2", "reading": 149.77999709983925, "confidence": 0.49537934626900515, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D287", "region": "R4", "reading": 70.23090194238773, "confidence": 0.6632217978148113, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D136", "region": "R3", "reading": 154.80896031010667, "confidence": 0.7664082735371738, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D156", "region": "R3", "reading": 155.1427516063131, "confidence": 0.7604689972142913, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D123", "region": "R2", "reading": 127.17518691110189, "confidence": 0.8938102886638747, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D61", "region": "R2", "reading": 100.08408933899246, "confidence": 0.7725012555150701, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D22", "region": "R2", "reading": 148.7987236069225, "confidence": 0.9306403526150401, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D76", "region": "R2", "reading": 90.62318588884139, "confidence": 0.8902368880831422, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D184", "region": "R4", "reading": 76.04844432905769, "confidence": 0.7038070303150139, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D198", "region": "R4", "reading": 68.36005353510143, "confidence": 0.6132883911559504, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D183", "region": "R2", "reading": 76.08049459734843, "confidence": 0.657261534719903, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D173", "region": "R2", "reading": 112.85392576535702, "confidence": 0.8567471704762369, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D194", "region": "R2", "reading": 78.63523399485898, "confidence": 0.7318043766880716, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D220", "region": "R2", "reading": 147.5917882744644, "confidence": 0.8316441728295489, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D136", "region": "R3", "reading": 112.2005153121047, "confidence": 0.6141272283608413, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D116", "region": "R2", "reading": 74.01446984407556, "confidence": 0.6487249935104449, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D119", "region": "R4", "reading": 91.53265647859713, "confidence": 0.7622929427260251, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D106", "region": "R2", "reading": 133.1699312770229, "confidence": 0.9071029438463662, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D138", "region": "R4", "reading": 93.63780522123812, "confidence": 0.9491987926966955, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D165", "region": "R3", "reading": 135.16526179643077, "confidence": 0.7107577042846088, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D242", "region": "R4", "reading": 81.71322328381522, "confidence": 0.290702463087795, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D100", "region": "R3", "reading": 95.38432685414858, "confidence": 0.7060958282554242, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D30", "region": "R4", "reading": 74.69425500311785, "confidence": 0.9440011905045437, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D165", "region": "R2", "reading": 97.5212413710664, "confidence": 0.783471086178291, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D222", "region": "R4", "reading": 69.09408498220627, "confidence": 0.7045346640300549, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D152", "region": "R3", "reading": 155.1359369496686, "confidence": 0.7753299860594298, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D182", "region": "R2", "reading": 145.10990643377602, "confidence": 0.10083633747358896, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D48", "region": "R3", "reading": 151.45161495199966, "confidence": 0.7642305423909983, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D86", "region": "R3", "reading": 152.9266983196663, "confidence": 0.8177176795463288, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D29", "region": "R3", "reading": 150.1696628344869, "confidence": 0.7353822159924011, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D75", "region": "R3", "reading": 150.87639756340135, "confidence": 0.5208574866994694, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D300", "region": "R3", "reading": 147.7820792928149, "confidence": 0.9189667319177722, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D197", "region": "R2", "reading": 85.46140933634545, "confidence": 0.7128164263759817, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D241", "region": "R4", "reading": 164.1631197171285, "confidence": 0.7857562769247853, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D20", "region": "R2", "reading": 107.22005873779646, "confidence": 0.18047785268242345, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D131", "region": "R4", "reading": 83.30934317346045, "confidence": 0.829878696930992, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D69", "region": "R2", "reading": 109.07318074095346, "confidence": 0.6399806792324231, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D103", "region": "R2", "reading": 145.62445681444885, "confidence": 0.7842729907479695, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D156", "region": "R2", "reading": 109.58526211775316, "confidence": 0.7665519412654326, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D110", "region": "R4", "reading": 99.48191152374413, "confidence": 0.3655435673389351, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D186", "region": "R4", "reading": 66.32909122704973, "confidence": 0.8792895315410021, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D264", "region": "R2", "reading": 111.37382523537438, "confidence": 0.9033494316647382, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D106", "region": "R3", "reading": 100.17587782617849, "confidence": 0.8092448843699388, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D163", "region": "R4", "reading": 92.47736281667015, "confidence": 0.7971794391201551, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D115", "region": "R3", "reading": 149.24579329765507, "confidence": 0.8706333549778964, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D281", "region": "R2", "reading": 96.73172927900978, "confidence": 0.8959267409841665, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D285", "region": "R4", "reading": 71.2933174671069, "confidence": 0.817069078993203, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D97", "region": "R2", "reading": 157.6251887415556, "confidence": 0.8907462043077911, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D203", "region": "R4", "reading": 72.60790433873801, "confidence": 0.8437334513792938, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D163", "region": "R4", "reading": 57.430006262451, "confidence": 0.9499946774070678, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D108", "region": "R3", "reading": 113.06141333626049, "confidence": 0.8735712400626415, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D113", "region": "R4", "reading": 91.10485157800625, "confidence": 0.29550325297595864, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D261", "region": "R2", "reading": 87.58394327237933, "confidence": 0.6042783726999899, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 153.79595552635476, "confidence": 0.7336018581880885, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D236", "region": "R3", "reading": 154.49155848411462, "confidence": 0.8301019200030733, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D61", "region": "R2", "reading": 103.95723133530689, "confidence": 0.7184127864881505, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D186", "region": "R3", "reading": 152.80291961652475, "confidence": 0.7960266875654267, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D85", "region": "R2", "reading": 165.26133605039425, "confidence": 0.47882456987961763, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D277", "region": "R3", "reading": 147.0069618392236, "confidence": 0.8832107828351264, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D78", "region": "R3", "reading": 146.42904764392367, "confidence": 0.41468128654009373, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D61", "region": "R4", "reading": 98.22135102349085, "confidence": 0.654730001184192, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D113", "region": "R3", "reading": 151.18006383923625, "confidence": 0.23878613580232105, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D87", "region": "R4", "reading": 97.09649707356073, "confidence": 0.9000746253429098, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D113", "region": "R2", "reading": 82.89526814027587, "confidence": 0.6872726966885072, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D287", "region": "R2", "reading": 98.55033647773719, "confidence": 0.8510417481587541, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D53", "region": "R3", "reading": 155.56679763614238, "confidence": 0.8010214970854843, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D84", "region": "R4", "reading": 90.91938644375253, "confidence": 0.6314877772973436, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D239", "region": "R4", "reading": 73.89974300626243, "confidence": 0.7808051200003778, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D234", "region": "R4", "reading": 148.50149115031803, "confidence": 0.7509115130687685, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D226", "region": "R2", "reading": 108.46846259448712, "confidence": 0.9459952191318104, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D143", "region": "R2", "reading": 110.60630072024192, "confidence": 0.9648967370312698, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D233", "region": "R3", "reading": 119.57900716045968, "confidence": 0.9409841896771198, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D105", "region": "R3", "reading": 103.75290734543573, "confidence": 0.7335298937493682, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D299", "region": "R4", "reading": 60.58930014477272, "confidence": 0.8862309613440958, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D268", "region": "R4", "reading": 70.7599910020019, "confidence": 0.9682437461488684, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D158", "region": "R2", "reading": 100.57081667964182, "confidence": 0.6955069467211374, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D55", "region": "R3", "reading": 151.84545874462708, "confidence": 0.7030523377294534, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D82", "region": "R4", "reading": 67.6981061631113, "confidence": 0.6578664087024443, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D59", "region": "R3", "reading": 157.59488135627856, "confidence": 0.7589361632957806, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D34", "region": "R4", "reading": 152.41369687684113, "confidence": 0.8087715003599546, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D201", "region": "R3", "reading": 150.61119298330843, "confidence": 0.7863467464219582, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D249", "region": "R3", "reading": 112.13149044451885, "confidence": 0.7686430601338572, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D250", "region": "R4", "reading": 77.25165232541772, "confidence": 0.740404939609629, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D119", "region": "R3", "reading": 145.7039746459423, "confidence": 0.8835969204057679, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D77", "region": "R3", "reading": 162.01329782071653, "confidence": 0.3541999873853979, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D267", "region": "R3", "reading": 103.47159969193619, "confidence": 0.6965140428767077, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D6", "region": "R2", "reading": 114.40314996129207, "confidence": 0.8767783675169465, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D87", "region": "R2", "reading": 106.75121478238695, "confidence": 0.7241702727357254, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D239", "region": "R2", "reading": 146.5396392199133, "confidence": 0.23260255052496623, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D251", "region": "R4", "reading": 78.21874352733245, "confidence": 0.7807767784892227, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D112", "region": "R3", "reading": 106.39515816281812, "confidence": 0.9212092139800858, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D158", "region": "R4", "reading": 80.47663165466582, "confidence": 0.7054966936000797, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D261", "region": "R3", "reading": 145.47290985556597, "confidence": 0.5263725407069691, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D25", "region": "R4", "reading": 75.33995484483364, "confidence": 0.7019684590227857, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D44", "region": "R2", "reading": 101.52842526792134, "confidence": 0.7680951472031052, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D115", "region": "R2", "reading": 150.64267143891917, "confidence": 0.7328040699628693, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D117", "region": "R3", "reading": 150.41593680519517, "confidence": 0.8854463941673903, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D158", "region": "R3", "reading": 116.76846053158306, "confidence": 0.6612775013306939, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D299", "region": "R3", "reading": 145.3087765655409, "confidence": 0.9099579198982558, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D134", "region": "R3", "reading": 150.26466591440683, "confidence": 0.3175381032927939, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D178", "region": "R2", "reading": 105.73956077319048, "confidence": 0.9202862978816658, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D228", "region": "R2", "reading": 102.82010330698608, "confidence": 0.8840957022370637, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D6", "region": "R3", "reading": 146.85691065666776, "confidence": 0.947874180479447, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D79", "region": "R2", "reading": 90.39805160141462, "confidence": 0.8696345719938865, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D136", "region": "R3", "reading": 152.4638012203986, "confidence": 0.7870637754956957, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D56", "region": "R2", "reading": 116.27607696890423, "confidence": 0.603757787203979, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D269", "region": "R2", "reading": 110.56131353153833, "confidence": 0.6956980699483808, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D41", "region": "R3", "reading": 151.1948324841441, "confidence": 0.3441672544334018, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D46", "region": "R2", "reading": 147.6900541919855, "confidence": 0.7471342074912959, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D71", "region": "R4", "reading": 94.43059924609278, "confidence": 0.9408119828250598, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D32", "region": "R3", "reading": 113.06459287599264, "confidence": 0.6875489094705756, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D298", "region": "R3", "reading": 151.22734672313572, "confidence": 0.9109648541045071, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D278", "region": "R4", "reading": 81.69850096442894, "confidence": 0.8646623154193838, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D108", "region": "R2", "reading": 93.48399597511681, "confidence": 0.7570414461217773, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D7", "region": "R4", "reading": 70.4210036892878, "confidence": 0.8003046162881933, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D10", "region": "R3", "reading": 110.62917675296245, "confidence": 0.676286805081761, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D142", "region": "R4", "reading": 87.0220274201607, "confidence": 0.9335206184712614, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D87", "region": "R3", "reading": 153.86327830723178, "confidence": 0.3747346901966375, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D106", "region": "R3", "reading": 150.64693626646357, "confidence": 0.900902759192601, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D198", "region": "R2", "reading": 81.24418868844228, "confidence": 0.7004170732774704, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D25", "region": "R3", "reading": 107.38709262856712, "confidence": 0.923849713381304, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D168", "region": "R3", "reading": 158.41322606168094, "confidence": 0.2410308640972656, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D113", "region": "R2", "reading": 147.38796814952178, "confidence": 0.8651691363228341, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D269", "region": "R2", "reading": 103.70130454702955, "confidence": 0.7891040796760589, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D267", "region": "R2", "reading": 147.47487278756248, "confidence": 0.9409707379648498, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D53", "region": "R4", "reading": 82.96914739566249, "confidence": 0.8338036617721545, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D100", "region": "R3", "reading": 150.35267639160466, "confidence": 0.39740329493719784, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D55", "region": "R2", "reading": 93.37712972806699, "confidence": 0.8532824975427811, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D48", "region": "R3", "reading": 145.66596850853344, "confidence": 0.8186825217585293, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D266", "region": "R2", "reading": 98.7137302863179, "confidence": 0.654231433684737, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D258", "region": "R2", "reading": 149.1596558968143, "confidence": 0.39123917957395515, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D262", "region": "R2", "reading": 146.3920453207459, "confidence": 0.23000061290113047, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D24", "region": "R3", "reading": 146.20709568436087, "confidence": 0.40592411759538305, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D285", "region": "R3", "reading": 154.48547249153373, "confidence": 0.5050498428736697, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D164", "region": "R2", "reading": 152.43893746064606, "confidence": 0.23716854938244036, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D137", "region": "R2", "reading": 105.70885725862622, "confidence": 0.9342075632096505, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D183", "region": "R3", "reading": 104.01445385480716, "confidence": 0.7792880616640161, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D219", "region": "R2", "reading": 105.8801522708222, "confidence": 0.7450902728988968, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D35", "region": "R2", "reading": 95.21681175501237, "confidence": 0.9129374377617702, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D205", "region": "R4", "reading": 78.73753985492401, "confidence": 0.32476438931203044, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D164", "region": "R2", "reading": 92.16894162603843, "confidence": 0.12047926004356865, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D7", "region": "R3", "reading": 153.0279743793799, "confidence": 0.9175717587078908, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D68", "region": "R4", "reading": 92.88397150191045, "confidence": 0.6040724191015284, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D190", "region": "R2", "reading": null, "confidence": 0.7494329391376838, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R4-D152", "region": "R4", "reading": 81.7962114773159, "confidence": 0.7010501862797812, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D202", "region": "R3", "reading": 125.80381282744277, "confidence": 0.9586019925953899, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D57", "region": "R3", "reading": 126.00441337511437, "confidence": 0.7049616071671636, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D62", "region": "R2", "reading": 110.44906801373868, "confidence": 0.8392220644921227, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D88", "region": "R4", "reading": 83.60410768567992, "confidence": 0.9600655949162697, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D157", "region": "R2", "reading": 114.18302645525979, "confidence": 0.1354207568679026, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D128", "region": "R4", "reading": null, "confidence": 0.8171426585780105, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D192", "region": "R3", "reading": 114.26911339428202, "confidence": 0.6798812024837301, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D267", "region": "R2", "reading": 101.76054552389874, "confidence": 0.7196772415387673, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D109", "region": "R2", "reading": 117.49269479039363, "confidence": 0.6041125434057703, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D18", "region": "R2", "reading": 97.24586390228825, "confidence": 0.7037358590373334, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D282", "region": "R2", "reading": 108.0409786682467, "confidence": 0.9292290393766893, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D40", "region": "R3", "reading": 158.75187108481194, "confidence": 0.13587403379272703, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 149.69014070497752, "confidence": 0.7070153513993092, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D91", "region": "R4", "reading": 63.19649394113666, "confidence": 0.6260958259325814, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D119", "region": "R3", "reading": 146.5398905857919, "confidence": 0.8998637132248389, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D47", "region": "R2", "reading": 154.0000909020477, "confidence": 0.9085911016066037, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D298", "region": "R3", "reading": 157.98596883291148, "confidence": 0.8326395520836307, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D300", "region": "R3", "reading": 146.47660202536977, "confidence": 0.4276705280774473, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D299", "region": "R3", "reading": 152.41948916269342, "confidence": 0.32855311827544664, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D16", "region": "R3", "reading": 113.54759805129567, "confidence": 0.9317732082220735, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D165", "region": "R4", "reading": 68.15693032530112, "confidence": 0.10833221186033215, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D188", "region": "R3", "reading": 87.19938368853353, "confidence": 0.25588938569030895, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R4-D107", "region": "R4", "reading": 87.46436958942017, "confidence": 0.3432083393726577, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D200", "region": "R4", "reading": 93.95455487474472, "confidence": 0.9192431236828509, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D263", "region": "R3", "reading": 118.42846368169329, "confidence": 0.917458579513214, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D7", "region": "R2", "reading": 82.45799613107437, "confidence": 0.8514280368001965, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D208", "region": "R4", "reading": 76.14148573652916, "confidence": 0.8228545752538685, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D275", "region": "R2", "reading": 108.80893097499138, "confidence": 0.7460043480011541, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D151", "region": "R3", "reading": null, "confidence": 0.16559779508630312, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D255", "region": "R2", "reading": 105.91495781600136, "confidence": 0.8989449323763319, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D139", "region": "R3", "reading": 153.8978326331858, "confidence": 0.9040844909259782, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D90", "region": "R4", "reading": 92.46504765150368, "confidence": 0.7216957769693001, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D299", "region": "R3", "reading": 123.61232355740808, "confidence": 0.1265819218314721, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D257", "region": "R3", "reading": 151.15923318854107, "confidence": 0.9144164265562982, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D156", "region": "R4", "reading": 82.76636761002132, "confidence": 0.9467228795353035, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D20", "region": "R3", "reading": 153.32859147230917, "confidence": 0.5223807500335275, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D93", "region": "R4", "reading": 76.33839574886277, "confidence": 0.15337484119617462, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D179", "region": "R4", "reading": 92.3122736770619, "confidence": 0.772731435791753, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D146", "region": "R3", "reading": 12.10577392505203, "confidence": 0.8745029410745965, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R4-D98", "region": "R4", "reading": 79.69533475210287, "confidence": 0.87959226543899, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D242", "region": "R4", "reading": 86.79539306998588, "confidence": 0.3971403058217693, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D192", "region": "R2", "reading": 147.79680136124895, "confidence": 0.7756621960852134, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D58", "region": "R4", "reading": 68.9788172442788, "confidence": 0.8945195407478511, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D164", "region": "R2", "reading": 113.05370367652846, "confidence": 0.2335905158092409, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D263", "region": "R2", "reading": 126.16651801905978, "confidence": 0.9331756070438499, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D194", "region": "R3", "reading": 114.43614977992239, "confidence": 0.901094261317577, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D43", "region": "R4", "reading": 74.49739216154511, "confidence": 0.7519151340991055, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D26", "region": "R3", "reading": 145.29385688804777, "confidence": 0.29726034207601926, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D229", "region": "R3", "reading": 152.1172355997842, "confidence": 0.814696383799108, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D19", "region": "R2", "reading": 149.73168391292253, "confidence": 0.9463502930543228, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D95", "region": "R3", "reading": 163.97337510534487, "confidence": 0.8712887048328208, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D212", "region": "R4", "reading": 65.77165271523249, "confidence": 0.8970037665350954, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D300", "region": "R4", "reading": 80.60326469309364, "confidence": 0.9564432741290589, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D90", "region": "R3", "reading": 153.8980077702184, "confidence": 0.9361508573295175, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D294", "region": "R2", "reading": 143.33100764273894, "confidence": 0.6091965439729063, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D135", "region": "R4", "reading": 99.21674454539672, "confidence": 0.6002421176771062, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D147", "region": "R2", "reading": 101.7863918606317, "confidence": 0.8953774526947968, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D264", "region": "R2", "reading": 72.46471528172509, "confidence": 0.7248527074445426, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D137", "region": "R4", "reading": 61.99005847046779, "confidence": 0.6773936203206121, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D36", "region": "R3", "reading": 152.56391164406702, "confidence": 0.28361711062088335, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D206", "region": "R4", "reading": 62.225306604001645, "confidence": 0.9090404803752639, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D159", "region": "R3", "reading": 98.97339282762634, "confidence": 0.7405271899847885, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D52", "region": "R3", "reading": 150.06524040646332, "confidence": 0.9406857577370124, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D16", "region": "R2", "reading": 115.91645215768784, "confidence": 0.6664605495812647, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D110", "region": "R4", "reading": 90.66415346203034, "confidence": 0.6658263797902089, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D206", "region": "R3", "reading": 150.18453671580124, "confidence": 0.7824942033814664, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D4", "region": "R2", "reading": 161.3091656779308, "confidence": 0.7882565110661274, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D122", "region": "R4", "reading": 82.86747751249496, "confidence": 0.7749908358304273, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D246", "region": "R4", "reading": 157.27862501190867, "confidence": 0.7768680170229989, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D85", "region": "R3", "reading": 153.59581758884926, "confidence": 0.9381890852981232, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D245", "region": "R3", "reading": 155.00162924617626, "confidence": 0.3672893131866436, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D254", "region": "R2", "reading": 167.02276834875664, "confidence": 0.8724734143900511, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D54", "region": "R3", "reading": 148.05906740921725, "confidence": 0.2620770360820628, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D126", "region": "R2", "reading": 105.23851737198576, "confidence": 0.399400580662524, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D120", "region": "R2", "reading": 73.56862892441782, "confidence": 0.8077883881088297, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D23", "region": "R3", "reading": 150.70628584246467, "confidence": 0.37955864148873764, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D144", "region": "R4", "reading": 78.34091899015942, "confidence": 0.9589896722691944, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D64", "region": "R2", "reading": 139.96706728718357, "confidence": 0.6991267076774216, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D158", "region": "R3", "reading": 151.0793267825299, "confidence": 0.8514872713728501, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D37", "region": "R4", "reading": 81.60392844077498, "confidence": 0.826745651667363, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D207", "region": "R2", "reading": 90.21279031636358, "confidence": 0.8861119706680325, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D90", "region": "R2", "reading": 148.83870886133337, "confidence": 0.36545860874420777, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D228", "region": "R3", "reading": 97.05066150412244, "confidence": 0.8709417220160173, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D255", "region": "R4", "reading": 73.13752500371861, "confidence": 0.9391362498675242, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D214", "region": "R2", "reading": 98.70217134658793, "confidence": 0.7179865330954958, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D213", "region": "R3", "reading": 112.38948570611694, "confidence": 0.6401978267983458, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D249", "region": "R2", "reading": 74.10475136582482, "confidence": 0.9574667065313911, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D261", "region": "R3", "reading": 151.91109982722097, "confidence": 0.7350141665929242, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D111", "region": "R2", "reading": 105.79285899981866, "confidence": 0.8249340397949088, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D98", "region": "R2", "reading": 109.46510312872454, "confidence": 0.7439326081883351, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D142", "region": "R3", "reading": 112.43103521609433, "confidence": 0.6181510154007435, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D199", "region": "R4", "reading": 83.09627863176543, "confidence": 0.6041764009941557, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D110", "region": "R3", "reading": 127.16390552189237, "confidence": 0.7236836913555822, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D211", "region": "R2", "reading": 92.48875235938898, "confidence": 0.7806753569228209, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D123", "region": "R4", "reading": 94.22265766101695, "confidence": 0.615915561675461, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D49", "region": "R2", "reading": 96.68487016048995, "confidence": 0.6936176342114633, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D151", "region": "R3", "reading": 120.7060888800029, "confidence": 0.824414733449516, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D175", "region": "R2", "reading": 123.84017382417531, "confidence": 0.6078313286253714, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D148", "region": "R4", "reading": 84.30008925445595, "confidence": 0.8492635056737746, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D229", "region": "R3", "reading": 151.59815258793904, "confidence": 0.11920628451478352, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D182", "region": "R4", "reading": 100.94262212816977, "confidence": 0.7406386482266496, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D43", "region": "R3", "reading": 152.31452499674583, "confidence": 0.8487896971326451, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D145", "region": "R4", "reading": 79.98047431352501, "confidence": 0.9466374804968481, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D251", "region": "R2", "reading": 150.23528824105105, "confidence": 0.8201697454023195, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D66", "region": "R4", "reading": 78.35800772589825, "confidence": 0.9143786002571332, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D243", "region": "R2", "reading": 111.60657311109637, "confidence": 0.7492718129195792, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D262", "region": "R4", "reading": 82.1334052501919, "confidence": 0.875043243424688, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D120", "region": "R3", "reading": 152.79430148040547, "confidence": 0.17674368931944245, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D264", "region": "R2", "reading": 113.30712574021251, "confidence": 0.7676146682348952, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D240", "region": "R2", "reading": 160.9174029806574, "confidence": 0.906488169350572, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D242", "region": "R2", "reading": 121.29430290777951, "confidence": 0.8434174656519964, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D90", "region": "R3", "reading": 154.08966156530974, "confidence": 0.758599883367355, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D41", "region": "R2", "reading": 83.35829623409519, "confidence": 0.7513462838447929, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D5", "region": "R4", "reading": 77.06528200338829, "confidence": 0.8019793058858384, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D275", "region": "R4", "reading": 69.38980943788252, "confidence": 0.8323162970375622, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D72", "region": "R3", "reading": 118.95667738282333, "confidence": 0.34883360376725353, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D56", "region": "R4", "reading": 53.36133521618467, "confidence": 0.9038319032921793, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D30", "region": "R2", "reading": 149.47251929229097, "confidence": 0.40561443737804237, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D101", "region": "R4", "reading": 77.65244779106075, "confidence": 0.9037063022700491, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D135", "region": "R3", "reading": 147.83158763129543, "confidence": 0.5452322195662197, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D170", "region": "R3", "reading": 161.80310349250354, "confidence": 0.74263933043597, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D101", "region": "R2", "reading": 157.58712001622007, "confidence": 0.5338502253510194, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D6", "region": "R2", "reading": null, "confidence": 0.6111192284841459, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R4-D103", "region": "R4", "reading": 86.81729141314143, "confidence": 0.7080309930492541, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D216", "region": "R4", "reading": 76.28759780960245, "confidence": 0.6021293044222492, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D213", "region": "R3", "reading": 112.5787128681459, "confidence": 0.6495477158572873, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D6", "region": "R3", "reading": 153.47034652506602, "confidence": 0.30469299382410187, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D87", "region": "R2", "reading": 71.33885530410433, "confidence": 0.6753990051896782, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D245", "region": "R3", "reading": 148.90134361441122, "confidence": 0.46927140678632384, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D4", "region": "R4", "reading": 81.73638369249099, "confidence": 0.696996178800411, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D239", "region": "R4", "reading": 96.19795432240659, "confidence": 0.9334152109788043, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D24", "region": "R4", "reading": 69.11690891919665, "confidence": 0.8855639644249105, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D51", "region": "R3", "reading": 152.65636059010095, "confidence": 0.7467638220782848, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D2", "region": "R4", "reading": 101.71617280325059, "confidence": 0.6869243871097093, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 147.87097785843432, "confidence": 0.90457450029304, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D66", "region": "R2", "reading": 101.30937984640484, "confidence": 0.22263386924498463, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D61", "region": "R3", "reading": 131.27407668731342, "confidence": 0.679130848834124, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D3", "region": "R4", "reading": 149.03190159463827, "confidence": 0.1351512982374448, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D258", "region": "R2", "reading": 153.32764413865658, "confidence": 0.9041136083939183, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D18", "region": "R2", "reading": 95.96317897082254, "confidence": 0.9540791612466425, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D66", "region": "R3", "reading": 152.8872912072158, "confidence": 0.7976518429958357, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D265", "region": "R4", "reading": 101.71721662560077, "confidence": 0.8768832108859053, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D30", "region": "R3", "reading": 122.62652015900025, "confidence": 0.7742548626239727, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D25", "region": "R2", "reading": 107.76711107021352, "confidence": 0.9426075642938754, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D234", "region": "R2", "reading": 101.2093208696117, "confidence": 0.7396388326969758, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D247", "region": "R2", "reading": 108.5074272781141, "confidence": 0.7644956712755492, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D29", "region": "R2", "reading": 109.79165915679874, "confidence": 0.7565369205642402, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D26", "region": "R2", "reading": 143.87015709322898, "confidence": 0.335447445132368, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D256", "region": "R3", "reading": 127.22707717481619, "confidence": 0.9236977076301471, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D268", "region": "R3", "reading": null, "confidence": 0.6529328871419016, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D216", "region": "R3", "reading": 159.2658757795294, "confidence": 0.773567750920334, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D108", "region": "R2", "reading": 133.8990762000654, "confidence": 0.8997787209287016, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D253", "region": "R3", "reading": 111.85851846064354, "confidence": 0.848769440252364, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D272", "region": "R3", "reading": 99.22006434692237, "confidence": 0.27918635105541134, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D264", "region": "R2", "reading": 89.27889024121914, "confidence": 0.7347380120200617, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D88", "region": "R4", "reading": 45.20263455105538, "confidence": 0.6930778542967814, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D211", "region": "R3", "reading": 118.04333490375713, "confidence": 0.7854208068795416, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D71", "region": "R4", "reading": 81.77756003293727, "confidence": 0.6893410508817097, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D65", "region": "R2", "reading": 113.25498785893708, "confidence": 0.7317094369505368, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D291", "region": "R3", "reading": null, "confidence": 0.29168381376176405, "metadata": {"scenario": "generated", "note": "forced_low_conf|missing"}}
+{"sensor_id": "R3-D217", "region": "R3", "reading": 149.64690820305808, "confidence": 0.7749581547813815, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D15", "region": "R3", "reading": 154.23898715502958, "confidence": 0.7549139878664723, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D40", "region": "R3", "reading": 120.38676577971032, "confidence": 0.9376428255132254, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D144", "region": "R2", "reading": 114.42315185102204, "confidence": 0.7163092380317662, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D252", "region": "R4", "reading": 74.10210145891756, "confidence": 0.9577718659792716, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D218", "region": "R4", "reading": 69.88502161480713, "confidence": 0.876154014930892, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D28", "region": "R2", "reading": 146.0792236989731, "confidence": 0.4059668516312116, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D69", "region": "R3", "reading": 148.05833847673782, "confidence": 0.8647394556931711, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D93", "region": "R4", "reading": 100.2759160041408, "confidence": 0.6591241111252005, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D154", "region": "R4", "reading": 69.96617708180744, "confidence": 0.22220812687615943, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D72", "region": "R2", "reading": 109.36760636520299, "confidence": 0.9386763770362538, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D92", "region": "R3", "reading": 154.0412749751853, "confidence": 0.8071739110610291, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D189", "region": "R3", "reading": 108.13627040642632, "confidence": 0.8084161202128615, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D26", "region": "R4", "reading": 85.06583755352203, "confidence": 0.9693332026157521, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D297", "region": "R4", "reading": 71.21758460952815, "confidence": 0.8437565218106156, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D14", "region": "R2", "reading": 126.01893786297641, "confidence": 0.8764148172647594, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D221", "region": "R4", "reading": 61.345351888500915, "confidence": 0.8744312242615377, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D216", "region": "R3", "reading": 114.86941390326925, "confidence": 0.6361400853596952, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D196", "region": "R4", "reading": 87.8603347905465, "confidence": 0.8876481856830214, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D291", "region": "R2", "reading": 101.32993282408196, "confidence": 0.8704590807806027, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D29", "region": "R3", "reading": 154.416153628085, "confidence": 0.7044661639691961, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D21", "region": "R3", "reading": 152.77293917809615, "confidence": 0.8169935035865727, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D118", "region": "R3", "reading": 152.88043218547352, "confidence": 0.14090274734063515, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D77", "region": "R3", "reading": 148.2154348601482, "confidence": 0.45235323854793363, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D119", "region": "R3", "reading": 149.17386453560576, "confidence": 0.8003599451108794, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D221", "region": "R2", "reading": 146.78243903420702, "confidence": 0.879598694380623, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D278", "region": "R2", "reading": 147.62362965686643, "confidence": 0.8529882912733577, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D217", "region": "R3", "reading": 150.99413801643138, "confidence": 0.8090547292271446, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D58", "region": "R3", "reading": 153.2851058574181, "confidence": 0.7945916470464671, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D225", "region": "R3", "reading": 153.2383892279839, "confidence": 0.8725716796791707, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D216", "region": "R2", "reading": 111.41776524175589, "confidence": 0.6238558958474121, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D119", "region": "R4", "reading": 89.29624687474073, "confidence": 0.6297055669406532, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D284", "region": "R3", "reading": 138.86147989180242, "confidence": 0.9077762625042873, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D270", "region": "R2", "reading": 116.3882333516764, "confidence": 0.6816043024882291, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D243", "region": "R2", "reading": 93.43993930394073, "confidence": 0.7502150669857306, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D163", "region": "R3", "reading": 130.51302450124138, "confidence": 0.7151154818994996, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D37", "region": "R2", "reading": 112.60719895276901, "confidence": 0.8349799280684546, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D132", "region": "R3", "reading": 108.38169465062555, "confidence": 0.8237437741201751, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D95", "region": "R4", "reading": 80.99401872689934, "confidence": 0.9313347107579821, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D48", "region": "R3", "reading": 160.02497361314806, "confidence": 0.8616427211295521, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D100", "region": "R3", "reading": 118.99146700854685, "confidence": 0.6195148878650863, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D34", "region": "R3", "reading": 150.627027806413, "confidence": 0.3026354630495882, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D12", "region": "R2", "reading": 150.79079481394436, "confidence": 0.7234675364304828, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D146", "region": "R4", "reading": 63.389448218610454, "confidence": 0.7437628121182607, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D226", "region": "R3", "reading": 151.4570405194449, "confidence": 0.8750652268759429, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D283", "region": "R3", "reading": 150.61477806984158, "confidence": 0.16182005303921496, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D219", "region": "R2", "reading": 155.01011254979565, "confidence": 0.755008883081892, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D296", "region": "R3", "reading": 119.98841538684543, "confidence": 0.6443243109770292, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D255", "region": "R2", "reading": 109.24308950613411, "confidence": 0.32244256883155936, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D259", "region": "R3", "reading": 158.2050923617705, "confidence": 0.9353489530624346, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D300", "region": "R3", "reading": 118.02553245304378, "confidence": 0.669119761566278, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D48", "region": "R3", "reading": 150.92101424475356, "confidence": 0.4027612349383335, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D88", "region": "R2", "reading": 110.3846799287024, "confidence": 0.7058911828841655, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D224", "region": "R3", "reading": 153.52492891764393, "confidence": 0.8096757210417316, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D111", "region": "R4", "reading": 87.32035014180364, "confidence": 0.22116842676208265, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R3-D236", "region": "R3", "reading": 152.84498659175188, "confidence": 0.8705165129142386, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D68", "region": "R3", "reading": 154.22721190586358, "confidence": 0.7032956079992055, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D234", "region": "R4", "reading": 91.13776239145032, "confidence": 0.7103445680119913, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D218", "region": "R3", "reading": 126.42497323533354, "confidence": 0.6462394711352202, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D171", "region": "R4", "reading": 70.49914648194735, "confidence": 0.716867743773807, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D81", "region": "R2", "reading": 111.59998698528926, "confidence": 0.9571094347405563, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D24", "region": "R2", "reading": 72.5480653853109, "confidence": 0.7020762093248197, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D165", "region": "R3", "reading": 152.60344870734662, "confidence": 0.7018403495711673, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D44", "region": "R3", "reading": 91.46171930177925, "confidence": 0.9377489669431972, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D55", "region": "R2", "reading": 93.71590231744837, "confidence": 0.9385483712556906, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D41", "region": "R4", "reading": 77.56353634314794, "confidence": 0.7339821533977838, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D230", "region": "R3", "reading": 114.2313487526075, "confidence": 0.7261838672032999, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D245", "region": "R2", "reading": 99.79024595511935, "confidence": 0.6418596589191379, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D177", "region": "R3", "reading": 154.1808809653035, "confidence": 0.21386432756482038, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R2-D150", "region": "R2", "reading": 94.18763145021484, "confidence": 0.6271090836014045, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D300", "region": "R3", "reading": 104.06720349912284, "confidence": 0.8179669934585077, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D68", "region": "R3", "reading": 72.50407966506852, "confidence": 0.49249257904672605, "metadata": {"scenario": "generated", "note": "|corrupted"}}
+{"sensor_id": "R2-D119", "region": "R2", "reading": 96.54596184095784, "confidence": 0.8409663942104805, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D266", "region": "R2", "reading": 106.07385869806107, "confidence": 0.7684874465687839, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D117", "region": "R3", "reading": null, "confidence": 0.8890325717453159, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R2-D83", "region": "R2", "reading": 145.69215729434416, "confidence": 0.7560463253676226, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D123", "region": "R4", "reading": 64.36583973477907, "confidence": 0.8691536782656536, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D127", "region": "R2", "reading": 92.51214010610005, "confidence": 0.8287530108085546, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D170", "region": "R3", "reading": null, "confidence": 0.9043663703295366, "metadata": {"scenario": "generated", "note": "|missing"}}
+{"sensor_id": "R3-D113", "region": "R3", "reading": 121.45222550122574, "confidence": 0.780714134023273, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D241", "region": "R3", "reading": 155.43901600931625, "confidence": 0.2070694006615607, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D251", "region": "R3", "reading": 146.5191391697489, "confidence": 0.25477609104719734, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D127", "region": "R4", "reading": 71.2911232072833, "confidence": 0.8515546109188554, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D22", "region": "R2", "reading": 103.25793413681883, "confidence": 0.9036888685371276, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D187", "region": "R2", "reading": 103.76729351526336, "confidence": 0.9563745409355427, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D33", "region": "R2", "reading": 102.16071833474234, "confidence": 0.2164510136324282, "metadata": {"scenario": "generated", "note": "forced_low_conf"}}
+{"sensor_id": "R4-D60", "region": "R4", "reading": 59.99714091750724, "confidence": 0.6015442675141457, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D144", "region": "R3", "reading": 150.67263732011494, "confidence": 0.7808411945711338, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D236", "region": "R3", "reading": 150.98477451722565, "confidence": 0.7248423747044055, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D227", "region": "R4", "reading": 87.74109050870315, "confidence": 0.8544523872553371, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D107", "region": "R4", "reading": 83.50363982759586, "confidence": 0.83202433276187, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D200", "region": "R2", "reading": 69.58084480632675, "confidence": 0.9661950600209055, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D186", "region": "R2", "reading": 75.23805048300548, "confidence": 0.6746853715211383, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D265", "region": "R3", "reading": 105.87321489206116, "confidence": 0.686310306807201, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D269", "region": "R2", "reading": 94.82184544737439, "confidence": 0.6670739467829512, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D147", "region": "R4", "reading": 87.08207053257625, "confidence": 0.691285278248683, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D90", "region": "R4", "reading": 83.27512453029823, "confidence": 0.869987688574414, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R2-D196", "region": "R2", "reading": 121.48864024344226, "confidence": 0.6787639493280653, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R3-D125", "region": "R3", "reading": 151.5303951515387, "confidence": 0.1549666579617198, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D196", "region": "R4", "reading": 65.80067671261791, "confidence": 0.8079958333628068, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D85", "region": "R4", "reading": 154.697807452449, "confidence": 0.9370284028913269, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D299", "region": "R4", "reading": 79.38848287808274, "confidence": 0.6551188310911013, "metadata": {"scenario": "generated"}}
+{"sensor_id": "R4-D121", "region": "R4", "reading": 79.17589811666619, "confidence": 0.8591244718938547, "metadata": {"scenario": "generated"}}
