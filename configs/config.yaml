@@ -1,0 +1,56 @@
+# 阶段0：基础配置占位（后续阶段可逐步填充和调整）
+
+risk_multipliers:
+  R2: 1.2
+  R3: 1.3
+  R4: 1.0
+  default: 1.0
+
+thresholds:
+  anomaly_reading: 145
+  low_confidence: 0.20
+  min_confidence_for_hll: 0.60
+
+# 以下模块参数在后续阶段逐步使用与细化
+reservoir:
+  size: 50000
+
+
+# delta 是“失败概率”（容忍的错误概率）
+count_min:
+  epsilon: 0.001
+  delta: 0.01
+  conservative_update: true
+
+hyperloglog:
+  precision_m: 16  # 占位：HLL寄存器精度
+
+stable_bloom:
+  capacity: 100000
+  decay_rate: 0.01
+
+lsh:
+  num_tables: 5
+  hash_size_k: 8
+
+estimation:
+  mc_samples: 1000
+  ci_level: 0.95
+  region_thresholds:
+    R2: 0.10
+    R3: 0.15
+
+reporting:
+  sinks:
+    - type: "jsonl"
+      path_stats: "out/stats.json"
+      path_alerts: "out/alerts.json"
+    - type: "csv"
+      path_stats: "out/stats.csv"
+      path_alerts: "out/alerts.csv"
+    - type: "stdout"
+    # - type: "webhook"
+    #   url_stats: "https://monitor.example.com/api/stats"
+    #   url_alerts: "https://monitor.example.com/api/alerts"
+    #   timeout_sec: 5
+    #   max_retries: 2
